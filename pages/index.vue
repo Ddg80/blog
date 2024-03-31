@@ -1,4 +1,10 @@
 <script setup></script>
 <template>
-    <div>Home</div>
+    <h1 class="home">Accueil du site</h1>
 </template>
+
+<style scoped>
+.home{
+    padding: 20px;
+}
+</style>
